@@ -4,6 +4,14 @@ import { Analytics } from '@vercel/analytics/react';
 import { Metadata } from 'next';
 const inter = Inter({ subsets: ['latin'] })
 
+
+
+export const metadata = {
+  title: "Riggs9000 – Write Linkedin posts in your tone & style",
+  description:
+    "Riggs9000 is an AI bot built with your keeping your sanity in mind.",
+}
+
 export const metadata: Metadata = {
   openGraph: {
     title: 'Riggs9000 – Write Linkedin posts in your tone & style',
@@ -27,13 +35,6 @@ export const metadata: Metadata = {
     type: 'website',
   },
 };
-
-export const metadata = {
-  title: "Riggs9000 – Write Linkedin posts in your tone & style",
-  description:
-    "Riggs9000 is an AI bot built with your keeping your sanity in mind.",
-}
-
 export default function RootLayout({
   children
 }: {
