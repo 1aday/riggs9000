@@ -48,7 +48,7 @@ export default function Chat() {
 <meta property="og:type" content="website">
 <meta property="og:title" content="Riggs 9000">
 <meta property="og:description" content="Write Linkedin Posts in Your Tone & Style">
-<meta property="og:image" content="https://i.imgur.com/2U0J2Y6.png">
+<meta property="og:image" content="https://lh3.googleusercontent.com/d/1nhvMnsPOzclWtVOfPyB-2NeSnkW79zOu">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
@@ -56,7 +56,7 @@ export default function Chat() {
 <meta property="twitter:url" content="https://riggs9000.vercel.app/">
 <meta name="twitter:title" content="Riggs 9000">
 <meta name="twitter:description" content="Write Linkedin Posts in Your Tone & Style">
-<meta name="twitter:image" content="https://i.imgur.com/2U0J2Y6.png">
+<meta name="twitter:image" content="https://lh3.googleusercontent.com/d/1nhvMnsPOzclWtVOfPyB-2NeSnkW79zOu">
 
 <!-- Meta Tags Generated via https://opengraph.dev --></head>
     <main className="flex flex-col items-center justify-between pb-40">
