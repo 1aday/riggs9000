@@ -17,12 +17,12 @@ export const metadata = {
     siteName: 'Riggs 9000',
     images: [
       {
-        url: 'https://raw.githubusercontent.com/1aday/riggs9000/e74bfc13611960b31a4ad5f4d0d2054d20950ba2/public/RIGGS-9000.png',
+        url: 'https://opengraph.b-cdn.net/production/documents/5855ca27-8ac4-4458-afa0-b580eebbb155.png?token=sZTJcBm6UckhtGEd0342p6dZCbIH829qNGnMbLnyNCE&height=630&width=1200&expires=33246212277',
         width: 800,
         height: 600,
       },
       {
-        url: 'https://raw.githubusercontent.com/1aday/riggs9000/e74bfc13611960b31a4ad5f4d0d2054d20950ba2/public/RIGGS-9000.png',
+        url: 'https://opengraph.b-cdn.net/production/documents/5855ca27-8ac4-4458-afa0-b580eebbb155.png?token=sZTJcBm6UckhtGEd0342p6dZCbIH829qNGnMbLnyNCE&height=630&width=1200&expires=33246212277',
         width: 1800,
         height: 1600,
         alt: 'My custom alt',
