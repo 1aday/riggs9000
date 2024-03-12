@@ -39,26 +39,7 @@ export default function Chat() {
   const disabled = isLoading || input.length === 0;
 
   return (
-    <head><!-- HTML Meta Tags -->
-<title>Riggs 9000</title>
-<meta name="description" content="Write Linkedin Posts in Your Tone & Style">
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://riggs9000.vercel.app/">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Riggs 9000">
-<meta property="og:description" content="Write Linkedin Posts in Your Tone & Style">
-<meta property="og:image" content="https://lh3.googleusercontent.com/d/1nhvMnsPOzclWtVOfPyB-2NeSnkW79zOu">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="riggs9000.vercel.app">
-<meta property="twitter:url" content="https://riggs9000.vercel.app/">
-<meta name="twitter:title" content="Riggs 9000">
-<meta name="twitter:description" content="Write Linkedin Posts in Your Tone & Style">
-<meta name="twitter:image" content="https://lh3.googleusercontent.com/d/1nhvMnsPOzclWtVOfPyB-2NeSnkW79zOu">
-
-<!-- Meta Tags Generated via https://opengraph.dev --></head>
+    
     <main className="flex flex-col items-center justify-between pb-40">
     
       {messages.length > 0 ? (
