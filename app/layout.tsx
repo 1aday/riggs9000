@@ -10,10 +10,7 @@ export const metadata = {
   title: "Riggs9000 – Write Linkedin posts in your tone & style",
   description:
     "Riggs9000 is an AI bot built with your keeping your sanity in mind.",
-}
-
-export const metadata: Metadata = {
-  openGraph: {
+   openGraph: {
     title: 'Riggs9000 – Write Linkedin posts in your tone & style',
     description: 'Riggs9000 is an AI bot built with your keeping your sanity in mind.',
     url: 'https://nextjs.org',
@@ -33,8 +30,9 @@ export const metadata: Metadata = {
     ],
     locale: 'en_US',
     type: 'website',
-  },
+  }
 }
+
 export default function RootLayout({
   children
 }: {
