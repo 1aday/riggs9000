@@ -8,9 +8,9 @@ export const metadata = {
   title: "Riggs9000 – Write Linkedin posts in your tone & style",
   description:
     "Riggs9000 is an AI bot built with your keeping your sanity in mind.",
-  image: "https://i.imgur.com/2U0J2Y6.png",
+  image: "https://lh3.googleusercontent.com/d/1nhvMnsPOzclWtVOfPyB-2NeSnkW79zOu",
   url: "https://riggs9000.vercel.app/",
-  og:image:"https://i.imgur.com/2U0J2Y6.png"
+  og:image:"https://lh3.googleusercontent.com/d/1nhvMnsPOzclWtVOfPyB-2NeSnkW79zOu"
 }
 
 export default function RootLayout({
