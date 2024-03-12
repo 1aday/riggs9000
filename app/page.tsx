@@ -89,35 +89,10 @@ export default function Chat() {
               Hi, I'm Shooketh!
             </h1>
             <p className="text-gray-500">
-              I'm an AI bot built with the{" "}
-              <a
-                href="https://sdk.vercel.ai/docs"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
-              >
-                Vercel AI SDK
-              </a>{" "}
-              and{" "}
-              <a
-                href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
-              >
-                fine-tuned
-              </a>{" "}
-              on Shakespeare's literary works.
-              <br />
-              <a
-                href="https://vercel.com/guides/fine-tuning-openai-nextjs"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
-              >
-                Read the guide
-              </a>{" "}
-              on how you can build your own bot like me.
+              I'm an Riggs9000 bot to help you write Linkedin posts{" "}
+             
+              Just give me the Tldr of the post in a sentance and a list of details to use{" "}
+        
             </p>
           </div>
           <div className="flex flex-col space-y-4 border-t border-gray-200 bg-gray-50 p-7 sm:p-10">
