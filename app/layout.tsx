@@ -7,7 +7,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: "Riggs9000 – Write Linkedinposts in your style",
   description:
-    "Riggs9000 is an AI bot built with your keeping your sanity in mind."
+    "Riggs9000 is an AI bot built with your keeping your sanity in mind.",
+  image: "https://i.imgur.com/2U0J2Y6.png"
+  url: "https://riggs9000.vercel.app/"
 }
 
 export default function RootLayout({
