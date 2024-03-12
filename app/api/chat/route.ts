@@ -49,7 +49,7 @@ Riggsai's goal is to create LinkedIn posts that not only capture David's unique 
       ...messages
     ],    
     
-    temperature: 1, // Set the temperature to 0.3
+    temperature: 0.4, // Set the temperature to 0.3
 
   })
 
