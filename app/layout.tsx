@@ -11,10 +11,10 @@ export const metadata = {
   description:
     "Riggs9000 is an AI bot built with your keeping your sanity in mind.",
    openGraph: {
-    title: 'Riggs9000 – Write Linkedin posts in your tone & style',
+    title: 'Riggs9000',
     description: 'Riggs9000 is an AI bot built with your keeping your sanity in mind.',
-    url: 'https://nextjs.org',
-    siteName: 'Next.js',
+    url: 'https://riggs9000.vercel.app',
+    siteName: 'Riggs 9000',
     images: [
       {
         url: 'https://raw.githubusercontent.com/1aday/riggs9000/e74bfc13611960b31a4ad5f4d0d2054d20950ba2/public/RIGGS-9000.png',
