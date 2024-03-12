@@ -80,7 +80,7 @@ export default function Chat() {
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <Image
               src="/shooketh.png"
-              alt="Shooketh"
+              alt="riggs9000"
               width={40}
               height={40}
               className="h-20 w-20"
