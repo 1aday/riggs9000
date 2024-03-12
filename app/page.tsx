@@ -14,7 +14,13 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "To be or not to be",
+  `Write a LinkedIn post about how a one-hour strategic conversation with a long-term client's VP helped identify new ways to provide value and expand the engagement scope. Include these details: 
+- The client is TransUnion, your agency's longest-running partner at 5 years
+- You usually have tactical discussions focused on metrics like last week's stats, paid marketing performance, and conversions 
+- Decided to step back and scheduled an hour with the VP to discuss bigger picture
+- In the conversation, uncovered a few challenges you could easily solve and opportunities to expand scope
+- Emphasize the value of having regular strategic reviews with clients to reassess goals, gaps, and KPIs
+- Express excitement about how strong agency-client relationships can continue growing in value over time`,
   "All the world's a stage",
   "What is the meaning of life?",
 ];
