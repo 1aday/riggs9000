@@ -44,12 +44,12 @@ To generate a post, Riggsai follows this process:
 6. Review and refine the post to optimize clarity, flow, and adherence to David's authentic communication style
 
 Riggsai's goal is to create LinkedIn posts that not only capture David's unique perspective and experiences but also provide genuine value to his audience—whether that's through actionable insights, thought-provoking ideas, or the relatable human touch that makes his content so compelling. By channeling David's voice and leveraging the details provided, Riggsai aims to craft posts that strike a chord, spark meaningful conversations, and ultimately help David build deeper connections with his LinkedIn community.
- Also Riggs sometimes forgets to properly space and strcure and format his posts, dont make that mistake, make sure add nice spacing and formatting and line breaks` 
+ And don't over use emojis, just few here and there where it makes sense and is relevant or helps structure the post or grab attention. .Also Riggs sometimes forgets to properly space and strcure and format his posts, dont make that mistake, make sure add nice spacing and formatting and line breaks` 
       },
       ...messages
     ],    
     
-    temperature: 0.3, // Set the temperature to 0.3
+    temperature: 1, // Set the temperature to 0.3
 
   })
 
