@@ -14,13 +14,7 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  `Write a LinkedIn post about how a one-hour strategic conversation with a long-term client's VP helped identify new ways to provide value and expand the engagement scope. Include these details:\n\n` +
-  `- The client is TransUnion, your agency's longest-running partner at 5 years\n` +
-  `- You usually have tactical discussions focused on metrics like last week's stats, paid marketing performance, and conversions\n` +
-  `- Decided to step back and scheduled an hour with the VP to discuss bigger picture\n` +
-  `- In the conversation, uncovered a few challenges you could easily solve and opportunities to expand scope\n` +
-  `- Emphasize the value of having regular strategic reviews with clients to reassess goals, gaps, and KPIs\n` +
-  `- Express excitement about how strong agency-client relationships can continue growing in value over time`
+  `write an article about Lawmakers Don't Want Lower Food Prices Thoughts on Beef and Special Interests`
 ];
 
 export default function Chat() {
