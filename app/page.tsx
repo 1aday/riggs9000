@@ -14,7 +14,7 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  `write an article about Lawmakers Don't Want Lower Food Prices Thoughts on Beef and Special Interests`
+  `write an article about how Lawmakers Don't Want Lower Food Prices Thoughts on Beef and Special Interests`
 ];
 
 export default function Chat() {
