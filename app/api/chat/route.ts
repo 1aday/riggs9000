@@ -32,7 +32,7 @@ export async function POST(req: Request) {
 
     temperature: 0.7, 
  frequency_penalty: 1.0,
-    max_tokens:3500
+    max_tokens:4500
   })
 
   // Convert the response into a friendly text-stream
